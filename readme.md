@@ -17,5 +17,12 @@ gn = Polygon.Polygon(((0.651, 0.302), (0.196, 0.691), (0.145, 0.092)))
 
 get the intersection Polygon with the & operator
 
-a = g1 & g2 & g3  
+a = g1 & g2 & g3 & gn
+
+for point in a[0]:
+
+calculate distances from vertices to reference chromaticity r(1,0), g(0,1) and b(0,0)
+
+
+  
 
