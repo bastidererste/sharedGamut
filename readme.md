@@ -10,8 +10,8 @@ get Polygon library at https://pypi.python.org/pypi/Polygon
 
 
 *// create Polygon object with gamut data as vertices.
-                         r(x, y)         g(x, y)         b(x, y) 
-g1 = Polygon.Polygon(((0.651, 0.302), (0.196, 0.691), (0.145, 0.092)))
+**                         r(x, y)         g(x, y)         b(x, y) 
+**g1 = Polygon.Polygon(((0.651, 0.302), (0.196, 0.691), (0.145, 0.092)))
 
 **pr1 = projector("192.168.0.8", 3002)**
 
