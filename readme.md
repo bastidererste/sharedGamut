@@ -1,7 +1,7 @@
 sharedGamut v0.1
 ====================
 
-python module to calcualte shared gamut of n gamuts. 
+simplified 2d polygon clipping algorithm to calcualte shared gamut of n gamuts. 
 
 
 ### usage:
